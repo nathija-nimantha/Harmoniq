@@ -80,6 +80,20 @@ class _MusicHomePageState extends State<MusicHomePage> {
       'category': 'Rap'
     },
     {
+      "title": "How I Built This",
+      "subtitle": "NPR",
+      "image": "assets/images/How_I_Built_This.jpg",
+      "plays": "1.5M plays",
+      "category": "Podcasts"
+    },
+    {
+      "title": "The Daily",
+      "subtitle": "The New York Times",
+      "image": "assets/images/The_Daily.jpg",
+      "plays": "2.8M plays",
+      "category": "Podcasts"
+    },
+    {
       'title': 'Shape of You',
       'subtitle': 'Ed Sheeran',
       'image': 'assets/images/Shape_Of_You.jpg',
@@ -100,6 +114,230 @@ class _MusicHomePageState extends State<MusicHomePage> {
       'plays': '4.8M plays',
       'category': 'Rap'
     },
+    {
+      "title": "Peaches",
+      "subtitle": "Justin Bieber ft. Daniel Caesar, Giveon",
+      "image": "assets/images/Peaches.jpg",
+      "plays": "3.2M plays",
+      "category": "R&B"
+    },
+    {
+      "title": "Good 4 U",
+      "subtitle": "Olivia Rodrigo",
+      "image": "assets/images/Good_4_U.jpg",
+      "plays": "3.7M plays",
+      "category": "Pop"
+    },
+    {
+      "title": "Stuff You Should Know",
+      "subtitle": "iHeartRadio",
+      "image": "assets/images/Stuff_You_Should_Know.jpg",
+      "plays": "2.3M plays",
+      "category": "Podcasts"
+    },
+    {
+      "title": "Armchair Expert",
+      "subtitle": "Dax Shepard",
+      "image": "assets/images/Armchair_Expert.jpg",
+      "plays": "2.6M plays",
+      "category": "Podcasts"
+    },
+    {
+      "title": "Save Your Tears",
+      "subtitle": "The Weeknd",
+      "image": "assets/images/Save_Your_Tears.jpg",
+      "plays": "3.9M plays",
+      "category": "Pop"
+    },
+    {
+      "title": "Drivers License",
+      "subtitle": "Olivia Rodrigo",
+      "image": "assets/images/Drivers_License.jpg",
+      "plays": "4.5M plays",
+      "category": "Pop"
+    },
+    {
+      "title": "MONTERO (Call Me By Your Name)",
+      "subtitle": "Lil Nas X",
+      "image": "assets/images/Montero.jpg",
+      "plays": "3.3M plays",
+      "category": "Hip-Hop"
+    },
+    {
+      "title": "Watermelon Sugar",
+      "subtitle": "Harry Styles",
+      "image": "assets/images/Watermelon_Sugar.jpg",
+      "plays": "3.6M plays",
+      "category": "Pop"
+    },
+    {
+      "title": "Mood",
+      "subtitle": "24kGoldn ft. iann dior",
+      "image": "assets/images/Mood.jpg",
+      "plays": "4.0M plays",
+      "category": "Rap"
+    },
+    {
+      "title": "Dynamite",
+      "subtitle": "BTS",
+      "image": "assets/images/Dynamite.jpg",
+      "plays": "4.7M plays",
+      "category": "Pop"
+    },
+    {
+      "title": "Bad Guy",
+      "subtitle": "Billie Eilish",
+      "image": "assets/images/Bad_Guy.jpg",
+      "plays": "5.1M plays",
+      "category": "Pop"
+    },
+    {
+      "title": "Senorita",
+      "subtitle": "Shawn Mendes & Camila Cabello",
+      "image": "assets/images/Senorita.jpg",
+      "plays": "3.8M plays",
+      "category": "Pop"
+    },
+    {
+      "title": "Despacito",
+      "subtitle": "Luis Fonsi ft. Daddy Yankee",
+      "image": "assets/images/Despacito.jpg",
+      "plays": "6.2M plays",
+      "category": "Latin"
+    },
+    {
+      "title": "Clocks",
+      "subtitle": "Coldplay",
+      "image": "assets/images/Clocks.jpg",
+      "plays": "2.9M plays",
+      "category": "Alternative"
+    },
+    {
+      "title": "Rolling in the Deep",
+      "subtitle": "Adele",
+      "image": "assets/images/Rolling_in_the_Deep.jpg",
+      "plays": "4.3M plays",
+      "category": "Soul"
+    },
+    {
+      "title": "Take Five",
+      "subtitle": "Dave Brubeck",
+      "image": "assets/images/Take_Five.jpg",
+      "plays": "1.7M plays",
+      "category": "Jazz"
+    },
+    {
+      "title": "Someone Like You",
+      "subtitle": "Adele",
+      "image": "assets/images/Someone_Like_You.jpg",
+      "plays": "4.6M plays",
+      "category": "Ballad"
+    },
+    {
+      "title": "Smells Like Teen Spirit",
+      "subtitle": "Nirvana",
+      "image": "assets/images/Smells_Like_Teen_Spirit.jpg",
+      "plays": "5.4M plays",
+      "category": "Grunge"
+    },
+    {
+      "title": "Billie Jean",
+      "subtitle": "Michael Jackson",
+      "image": "assets/images/Billie_Jean.jpg",
+      "plays": "5.9M plays",
+      "category": "Pop"
+    },
+    {
+      "title": "Waka Waka",
+      "subtitle": "Shakira",
+      "image": "assets/images/Waka_Waka.jpg",
+      "plays": "4.0M plays",
+      "category": "World"
+    },
+    {
+      "title": "Hotel California",
+      "subtitle": "Eagles",
+      "image": "assets/images/Hotel_California.jpg",
+      "plays": "6.0M plays",
+      "category": "Classic Rock"
+    },
+    {
+      "title": "Uptown Funk",
+      "subtitle": "Mark Ronson ft. Bruno Mars",
+      "image": "assets/images/Uptown_Funk.jpg",
+      "plays": "5.5M plays",
+      "category": "Funk"
+    },
+    {
+      "title": "La Vida Es Un Carnaval",
+      "subtitle": "Celia Cruz",
+      "image": "assets/images/La_Vida_Es_Un_Carnaval.jpg",
+      "plays": "3.1M plays",
+      "category": "Latin"
+    },
+    {
+      "title": "Viva La Vida",
+      "subtitle": "Coldplay",
+      "image": "assets/images/Viva_La_Vida.jpg",
+      "plays": "4.8M plays",
+      "category": "Alternative"
+    },
+    {
+      "title": "Back to Black",
+      "subtitle": "Amy Winehouse",
+      "image": "assets/images/Back_to_Black.jpg",
+      "plays": "3.4M plays",
+      "category": "Soul"
+    },
+    {
+      "title": "So What",
+      "subtitle": "Miles Davis",
+      "image": "assets/images/So_What.jpg",
+      "plays": "2.2M plays",
+      "category": "Jazz"
+    },
+    {
+      "title": "My Heart Will Go On",
+      "subtitle": "Celine Dion",
+      "image": "assets/images/My_Heart_Will_Go_On.jpg",
+      "plays": "4.9M plays",
+      "category": "Ballad"
+    },
+    {
+      "title": "Black Hole Sun",
+      "subtitle": "Soundgarden",
+      "image": "assets/images/Black_Hole_Sun.jpg",
+      "plays": "3.7M plays",
+      "category": "Grunge"
+    },
+    {
+      "title": "Beat It",
+      "subtitle": "Michael Jackson",
+      "image": "assets/images/Beat_It.jpg",
+      "plays": "5.7M plays",
+      "category": "Pop"
+    },
+    {
+      "title": "Hips Don't Lie",
+      "subtitle": "Shakira ft. Wyclef Jean",
+      "image": "assets/images/Hips_Dont_Lie.jpg",
+      "plays": "4.3M plays",
+      "category": "World"
+    },
+    {
+      "title": "Stairway to Heaven",
+      "subtitle": "Led Zeppelin",
+      "image": "assets/images/Stairway_to_Heaven.jpg",
+      "plays": "6.3M plays",
+      "category": "Classic Rock"
+    },
+    {
+      "title": "Superstition",
+      "subtitle": "Stevie Wonder",
+      "image": "assets/images/Superstition.jpg",
+      "plays": "4.6M plays",
+      "category": "Funk"
+    }
   ];
 
   final List<String> categories = [
@@ -109,7 +347,6 @@ class _MusicHomePageState extends State<MusicHomePage> {
     'Pop',
     'Rap',
     'Rock',
-    'Electronic'
   ];
 
   String selectedCategory = 'All';
@@ -120,8 +357,8 @@ class _MusicHomePageState extends State<MusicHomePage> {
     final filteredMusic = selectedCategory == 'All'
         ? allMusicData
         : allMusicData
-        .where((music) => music['category'] == selectedCategory)
-        .toList();
+            .where((music) => music['category'] == selectedCategory)
+            .toList();
 
     return Scaffold(
       backgroundColor: Colors.grey[100],
@@ -147,9 +384,10 @@ class _MusicHomePageState extends State<MusicHomePage> {
               child: Row(
                 children: categories
                     .map((category) => Padding(
-                  padding: const EdgeInsets.symmetric(horizontal: 8.0),
-                  child: _categoryButton(category, selectedCategory == category),
-                ))
+                          padding: const EdgeInsets.symmetric(horizontal: 8.0),
+                          child: _categoryButton(
+                              category, selectedCategory == category),
+                        ))
                     .toList(),
               ),
             ),
@@ -185,8 +423,7 @@ class _MusicHomePageState extends State<MusicHomePage> {
           BottomNavigationBarItem(icon: Icon(Icons.library_music), label: 'Library'),
           BottomNavigationBarItem(icon: Icon(Icons.settings), label: 'Settings'),
         ],
-        onTap: (index) {
-        },
+        onTap: (index) {},
       ),
     );
   }
@@ -234,14 +471,12 @@ class _MusicHomePageState extends State<MusicHomePage> {
             height: 50,
             fit: BoxFit.cover,
             errorBuilder: (context, error, stackTrace) {
-              return const Icon(Icons.broken_image, size: 50, color: Colors.grey);
+              return const Icon(Icons.broken_image,
+                  size: 50, color: Colors.grey);
             },
           ),
         ),
-        title: Text(
-          item['title']!,
-          style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
-        ),
+        title: Text(item['title']!, style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),),
         subtitle: Row(
           children: [
             Expanded(
@@ -283,7 +518,8 @@ class _MusicHomePageState extends State<MusicHomePage> {
               height: 40,
               fit: BoxFit.cover,
               errorBuilder: (context, error, stackTrace) {
-                return const Icon(Icons.broken_image, size: 40, color: Colors.grey);
+                return const Icon(Icons.broken_image,
+                    size: 40, color: Colors.grey);
               },
             ),
           ),
@@ -294,7 +530,8 @@ class _MusicHomePageState extends State<MusicHomePage> {
               children: [
                 Text(
                   item['title']!,
-                  style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
+                  style: const TextStyle(
+                      fontWeight: FontWeight.bold, fontSize: 16),
                   overflow: TextOverflow.ellipsis,
                 ),
                 Text(
