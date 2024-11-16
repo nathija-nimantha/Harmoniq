@@ -24,7 +24,7 @@ This project serves as a **test application** for learning Dart and Flutter.
 ---
 
 ## Screenshots
-![Screenshot](assets/images/screenshot.png)
+![Screenshot](assets/images/Screenshot.png)
 
 ---
 
